@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/alexandreiw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandreiw&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreiw&layout=compact&langs_count=3&theme=aura"/>
+  <img height="180em" width="45%"src="https://github-readme-stats.vercel.app/api?username=alexandreiw&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreiw&layout=compact&langs_count=3&theme=aura"/>
 </div>
 
 ### Tecnologias que utilizo no dia a dia
