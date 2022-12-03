@@ -3,9 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=35&pause=1000&color=5CF0BF&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Alexandre+Inácio+Watanabe;Be+Welcome!+:%29;I´m+a+frontend+developer;I+study+systems+development+at+Estácio;The+next+level+is+never+the+last...)](https://git.io/typing-svg)
 
 <div align="center">  
-<img  width="49%" src="https://github-readme-stats.vercel.app/api?username=alexandreiw&show_icons=true&count_private=true&hide_border=true&theme=aura" alt="Alexandreiw github stats" /> 
-<img  width="49%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreiw&layout=compact&hide_border=true&theme=aura" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexandreiw&show_icons=true&count_private=true&hide_border=true&theme=aura" alt="Alexandreiw github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreiw&layout=compact&hide_border=true&theme=aura" />
 </div>
+
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexandreiw&bg_color=15141b&color=5cf0bf&line=8c67db&point=e1b376&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Alexandreiw's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexandreiw&theme=aura)](https://github.com/alexandreiw/github-readme-activity-graph) -->
 
 ### Main skills:
 
@@ -22,10 +26,6 @@
 ### Studying in this moment:
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; ![Tailwindcss](https://img.shields.io/badge/-tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp; ![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=0D1117)&nbsp;
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexandreiw&bg_color=15141b&color=5cf0bf&line=8c67db&point=e1b376&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Snake animation](https://github.com/alexandreiw/alexandreiw/blob/output/github-contribution-grid-snake.svg)
 
 ### Speak to me:
 
