@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=35&pause=1000&color=5CF0BF&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Alexandre+Inácio+Watanabe;Be+Welcome!+:%29;I´m+a+frontend+developer;I+study+systems+development+at+Estácio;The+next+level+is+never+the+last...)](https://git.io/typing-svg)
 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexandreiw&show_icons=true&count_private=true&hide_border=true&theme=aura" alt="Alexandreiw github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreiw&layout=compact&hide_border=true&theme=aura" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandreiw&show_icons=true&count_private=true&hide_border=true&theme=aura" alt="Alexandreiw github stats" /> 
+<img height="180em" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreiw&layout=compact&hide_border=true&theme=aura" />
 </div>
 
 ### Main skills:
