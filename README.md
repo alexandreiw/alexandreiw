@@ -25,6 +25,8 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexandreiw&bg_color=15141b&color=5cf0bf&line=8c67db&point=e1b376&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Snake animation](https://github.com/alexandreiw/alexandreiw/blob/output/github-contribution-grid-snake.svg)
+
 ### Speak to me:
 
 <div>
