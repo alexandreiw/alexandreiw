@@ -7,6 +7,8 @@
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreiw&layout=compact&hide_border=true&theme=aura" />
 </div>
 
+[![contributions graph](https://github.com/alexandreiw/alexandreiw/raw/output/github-contribution-grid-snake.svg)](https://github.com/alexandreiw)
+
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexandreiw&bg_color=15141b&color=5cf0bf&line=8c67db&point=e1b376&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Alexandreiw's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexandreiw&theme=aura)](https://github.com/alexandreiw/github-readme-activity-graph) -->
